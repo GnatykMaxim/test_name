@@ -6,3 +6,4 @@
 Петров
 Соколов
 Михайлов
+feature-53 finished - lesson
